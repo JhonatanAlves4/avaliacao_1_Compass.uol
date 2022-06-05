@@ -38,6 +38,10 @@ desnecessários sejam desconsiderados?
    <li>R: Para desconsiderar a publicação de arquivos ou pastas específicas, é necessário colocar o nome do arquivo ou pasta dentro do arquivo                '.gitignore', assim, o git irá ignorar qualquer alteração dos mesmos para commit.</li>
 </ul>
 <hr>
-
-
+4. Com suas palavras, descreva as vantagens de utilizar o Scrum no seu projeto.
+<br><br>
+<ul>
+   <li>R: A metodologia Scrum facilita a visualização do andamento do projeto, trabalhando com estimativas e dailys, se têm um controle muito maior de como    os processos tem andado. Com o Scrum, existe uma fragmentação de cada tarefa a ser realizada, o que faz com que a identificação de erros seja aprimorada    consideravelmente.
+   </li>
+</ul>
 
