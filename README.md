@@ -1,6 +1,6 @@
 # avaliacao_1_Compass.uol
 
-1. a)
+1. a) 15 minutos.
    b)
    c)
    d)
