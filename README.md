@@ -3,6 +3,10 @@
 1. Baseado no Scrum Guide, qual o tempo máximo deveriam ter as seguintes
 cerimônias:
 <br>
+<ul>
+   <li>a. Daily: 15 minutos.</li>
+   <li>b. Planning: No máximo 8 horas para uma Sprint de um mês, para Sprints menores o tempo pode ser menor.</li>
+</ul>
 a. Daily: 15 minutos.
 b. Planning: No máximo 8 horas para uma Sprint de um mês, para Sprints menores o tempo pode ser menor.
 c. Review: 4 horas para uma Sprint de um mês, para Sprints menores o tempo pode ser menor.
