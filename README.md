@@ -19,8 +19,13 @@ Untracked Files:
 README
 Product.js
 <br>
+
 Por que esse “erro” de “Untracked files” ocorreu e qual comando resolveria o
-problema?
+problema?<br>
+
+R: O erro ocorreu porque para publicar arquivos recém criados ou alterados, é preciso utilizar o comando "git add <nome do arquivo>",
+   esse comando faz que esses arquivos fiquem em uma área de staging, prontos para em seguida serem commitados com o comando "git commit -m "mensagem""
+   e posteriormente serem publicados com o comando "git push".<br>
 
 
 3. R: .gitignore
