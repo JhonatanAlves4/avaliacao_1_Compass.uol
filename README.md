@@ -41,7 +41,14 @@ desnecessários sejam desconsiderados?
 4. Com suas palavras, descreva as vantagens de utilizar o Scrum no seu projeto.
 <br><br>
 <ul>
-   <li>R: A metodologia Scrum facilita a visualização do andamento do projeto, trabalhando com estimativas e dailys, se têm um controle muito maior de como    os processos tem andado. Com o Scrum, existe uma fragmentação de cada tarefa a ser realizada, o que faz com que a identificação de erros seja aprimorada    consideravelmente.
+   <li>R: A metodologia Scrum facilita a visualização do andamento do projeto, trabalhando com estimativas e dailys, se têm um controle muito maior de como    os processos tem andado. Com o Scrum, existe uma fragmentação de cada tarefa a ser realizada, o que faz com que a identificação de erros seja aprimorada    consideravelmente, utilizando desta metodologia, o time fica mais alinhado, obstáculos são eliminados e prioridades são definidas.
    </li>
 </ul>
-
+<hr>
+5. José foi promovido de seu cargo anterior e se tornou o novo Product Owner do
+time, quais são suas novas responsabilidades como PO?
+<br><br>
+<ul>
+   <li>R: Dentre as responsabilidades de um PO (Product Owner) estão definir o backlog do produto, conciliar a priorização de determinadas funcionalidades    de acordo com o valor de negócio, acompanhar e ajustar o andamento das dailys, aprovar ou não os resultados apresentados e entre outras tarefas.
+   </li>
+</ul>
